@@ -1,5 +1,5 @@
 # Welcome!
-This is my E-Portfolio for my SNHU CS-499 Capstone Course, and will show off multiple enhancements of artifacts that I've worked on in the past. Each enhancement will include a narrative explaining the enhancement, and also an initial code review of each artifact. The first work to appear on this portfolio will be a Professional Self Assessment.
+This is my E-Portfolio for my SNHU CS-499 Capstone Course, and will show off multiple enhancements of artifacts that I've worked on in the past. Each enhancement will include a narrative explaining the enhancement, and also an initial code review of each artifact. The first work to appear on this portfolio will be a Professional Self Assessment. After that, a code review that analyzes each of my artifacts. Then, finally, all of my artifact narratives and enhancements.
 
 # Code Review
 My code review was the first step I took to enhancing my projects. In my review, I spend about 30 minutes on each artifact, and succinctly describe what each artifact does. I thoroughly went through each artifact in order to determine its functionality, as well as room for improvement for each one.
